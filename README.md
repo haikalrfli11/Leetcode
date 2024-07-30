@@ -20,4 +20,8 @@
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/haikalrfli11/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/haikalrfli11/Leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
