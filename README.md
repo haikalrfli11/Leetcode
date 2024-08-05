@@ -10,6 +10,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/haikalrfli11/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/haikalrfli11/Leetcode/tree/master/0009-palindrome-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
