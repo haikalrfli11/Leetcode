@@ -10,6 +10,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/haikalrfli11/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haikalrfli11/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/haikalrfli11/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haikalrfli11/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
