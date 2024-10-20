@@ -15,6 +15,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haikalrfli11/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Stack
 |  |
 | ------- |
