@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/haikalrfli11/Leetcode/tree/master/0009-palindrome-number) |
+| [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [1965-sum-of-digits-in-base-k](https://github.com/haikalrfli11/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
@@ -67,6 +68,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/haikalrfli11/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haikalrfli11/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
