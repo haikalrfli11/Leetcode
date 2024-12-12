@@ -16,6 +16,7 @@
 | [1755-defuse-the-bomb](https://github.com/haikalrfli11/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haikalrfli11/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/haikalrfli11/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -77,6 +78,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/haikalrfli11/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/haikalrfli11/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haikalrfli11/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/haikalrfli11/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
