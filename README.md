@@ -12,6 +12,7 @@
 | [0682-baseball-game](https://github.com/haikalrfli11/Leetcode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/haikalrfli11/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/haikalrfli11/Leetcode/tree/master/0009-palindrome-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [1965-sum-of-digits-in-base-k](https://github.com/haikalrfli11/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/haikalrfli11/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Bit Manipulation
 |  |
 | ------- |
