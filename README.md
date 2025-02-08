@@ -10,6 +10,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/haikalrfli11/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/haikalrfli11/Leetcode/tree/master/0682-baseball-game) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/haikalrfli11/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/haikalrfli11/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1137-height-checker](https://github.com/haikalrfli11/Leetcode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
