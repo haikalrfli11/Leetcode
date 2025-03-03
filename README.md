@@ -36,6 +36,7 @@
 | [2476-check-distances-between-same-letters](https://github.com/haikalrfli11/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haikalrfli11/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/haikalrfli11/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/haikalrfli11/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
@@ -57,6 +58,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/haikalrfli11/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2476-check-distances-between-same-letters](https://github.com/haikalrfli11/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/haikalrfli11/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -173,6 +175,7 @@
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
