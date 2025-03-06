@@ -40,6 +40,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/haikalrfli11/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/haikalrfli11/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/haikalrfli11/Leetcode/tree/master/3429-special-array-i) |
@@ -60,6 +61,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/haikalrfli11/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2476-check-distances-between-same-letters](https://github.com/haikalrfli11/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/haikalrfli11/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -70,6 +72,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/haikalrfli11/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/haikalrfli11/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/haikalrfli11/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -152,6 +155,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Stack
 |  |
