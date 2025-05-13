@@ -18,6 +18,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
 | [1137-height-checker](https://github.com/haikalrfli11/Leetcode/tree/master/1137-height-checker) |
+| [1293-three-consecutive-odds](https://github.com/haikalrfli11/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/haikalrfli11/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
