@@ -42,6 +42,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/haikalrfli11/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/haikalrfli11/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/haikalrfli11/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -104,6 +105,7 @@
 | [2476-check-distances-between-same-letters](https://github.com/haikalrfli11/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haikalrfli11/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3194-find-words-containing-character](https://github.com/haikalrfli11/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/haikalrfli11/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
