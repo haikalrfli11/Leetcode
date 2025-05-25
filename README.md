@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/haikalrfli11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
@@ -91,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/haikalrfli11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0742-to-lower-case](https://github.com/haikalrfli11/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/haikalrfli11/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/haikalrfli11/Leetcode/tree/master/0812-rotate-string) |
@@ -183,6 +185,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/haikalrfli11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/haikalrfli11/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Two Pointers
 |  |
