@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/haikalrfli11/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/haikalrfli11/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -228,4 +229,12 @@
 |  |
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/haikalrfli11/Leetcode/tree/master/0986-largest-time-for-given-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
