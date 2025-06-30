@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/haikalrfli11/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/haikalrfli11/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
@@ -232,9 +233,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/haikalrfli11/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/haikalrfli11/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
