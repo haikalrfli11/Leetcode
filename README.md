@@ -11,6 +11,7 @@
 | [0063-unique-paths-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/haikalrfli11/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
@@ -243,6 +244,7 @@
 | [0064-minimum-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
