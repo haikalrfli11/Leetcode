@@ -13,6 +13,7 @@
 | [0118-pascals-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/haikalrfli11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/haikalrfli11/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
@@ -247,6 +248,7 @@
 | [0118-pascals-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/haikalrfli11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
