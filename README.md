@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/haikalrfli11/Leetcode/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
 | [0565-array-nesting](https://github.com/haikalrfli11/Leetcode/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/haikalrfli11/Leetcode/tree/master/0682-baseball-game) |
@@ -87,6 +88,7 @@
 | [0009-palindrome-number](https://github.com/haikalrfli11/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/haikalrfli11/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/haikalrfli11/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -258,6 +260,7 @@
 | [0120-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haikalrfli11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/haikalrfli11/Leetcode/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -284,4 +287,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/haikalrfli11/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/haikalrfli11/Leetcode/tree/master/0695-max-area-of-island) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
