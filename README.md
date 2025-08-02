@@ -19,6 +19,7 @@
 | [0198-house-robber](https://github.com/haikalrfli11/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/haikalrfli11/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/haikalrfli11/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/haikalrfli11/Leetcode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
@@ -235,6 +236,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/haikalrfli11/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/haikalrfli11/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/haikalrfli11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/haikalrfli11/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
