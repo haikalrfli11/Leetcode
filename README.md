@@ -30,6 +30,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
 | [0986-largest-time-for-given-digits](https://github.com/haikalrfli11/Leetcode/tree/master/0986-largest-time-for-given-digits) |
+| [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/haikalrfli11/Leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/haikalrfli11/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/haikalrfli11/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -89,6 +90,7 @@
 | [0062-unique-paths](https://github.com/haikalrfli11/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
+| [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/haikalrfli11/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -134,6 +136,7 @@
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/haikalrfli11/Leetcode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haikalrfli11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -178,6 +181,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
+| [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +226,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/haikalrfli11/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Stack
 |  |
@@ -295,4 +300,12 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
