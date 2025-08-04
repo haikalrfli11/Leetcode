@@ -10,6 +10,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/haikalrfli11/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0120-triangle) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haikalrfli11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/haikalrfli11/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/haikalrfli11/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/haikalrfli11/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/haikalrfli11/Leetcode/tree/master/0463-island-perimeter) |
