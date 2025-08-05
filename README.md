@@ -20,6 +20,7 @@
 | [0198-house-robber](https://github.com/haikalrfli11/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/haikalrfli11/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/haikalrfli11/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/haikalrfli11/Leetcode/tree/master/0463-island-perimeter) |
@@ -73,6 +74,7 @@
 | [0073-set-matrix-zeroes](https://github.com/haikalrfli11/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0229-majority-element-ii) |
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/haikalrfli11/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/haikalrfli11/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/haikalrfli11/Leetcode/tree/master/1137-height-checker) |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haikalrfli11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/haikalrfli11/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
