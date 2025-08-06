@@ -1,5 +1,5 @@
 # Leetcode
- A repository for storing leetcode solution. I solve it without using ChatGPT 😁
+ A repository for storing leetcode solution. Feel free to correct my solution —— Just hit me up on twitter which I've linked in my profile.😁
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
