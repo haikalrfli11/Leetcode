@@ -12,6 +12,7 @@
 | [0063-unique-paths-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/haikalrfli11/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/haikalrfli11/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0120-triangle) |
@@ -140,6 +141,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/haikalrfli11/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/haikalrfli11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haikalrfli11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0229-majority-element-ii) |
@@ -229,6 +231,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/haikalrfli11/Leetcode/tree/master/0075-sort-colors) |
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/haikalrfli11/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
