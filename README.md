@@ -55,6 +55,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/haikalrfli11/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/haikalrfli11/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/haikalrfli11/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/haikalrfli11/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -105,6 +106,7 @@
 | [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/haikalrfli11/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/haikalrfli11/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/haikalrfli11/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -155,6 +157,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haikalrfli11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | [0463-island-perimeter](https://github.com/haikalrfli11/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/haikalrfli11/Leetcode/tree/master/0695-max-area-of-island) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Stack
